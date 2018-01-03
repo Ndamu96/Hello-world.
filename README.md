@@ -1,2 +1,6 @@
 # Hello-world.
-trying my very first repository
+
+hello
+
+My name is Ndamu From Africa Malawi,  male and a computer programming student.
+
